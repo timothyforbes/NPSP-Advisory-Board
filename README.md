@@ -1,4 +1,5 @@
-Nonprofit Starter Pack Advisory Board Proposal
+Nonprofit Starter Pack Advisory Board Proposal 
+//v2 with Marc's comments
 ----------------------------------------------
 
 ### 1. Background
