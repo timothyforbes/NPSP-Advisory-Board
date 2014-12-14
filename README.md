@@ -11,9 +11,9 @@ The Nonprofit Starter Pack open source project has continued to provide an alter
 
 The NPSP Advisory Board has seats reserved for the various constituencies who are making long-term investments in the Nonprofit Starter Pack, this including:
 
-* Individuals who are investing time and effort to contribute to the project.
+* Individuals who are investing time and effort to contribute to the project
 * Organizations using the NPSP
-* Partners that are extending, utilizing or enhancing the NPSP in their products and services.
+* Partners that are extending, utilizing or enhancing the NPSP in their products and services
 * Outside expertise from other open source projects
 
 ##### 1.1.2  Transparent Communication & Engagement
@@ -22,7 +22,7 @@ The proposal and documentation behind the NPSP Advisory Board, the selection cri
 
 ##### 1.1.3  Encouraging Contribution
 
-There is no fee to join the board. Membership on the NPSP Advisory Board is open to partners and individuals who contribute to the overall success and health of the NPSP project. The top contributors (and maintainers) are automatically given a seat on the board. Organizations can only get on the board if they are both current top contributors and agree to implement successful NPSP-based solutions to the community at large. 
+There is no fee to join the board. Membership on the NPSP Advisory Board is open to partners and individuals who contribute to the overall success and health of the NPSP project. The top contributors (and maintainers) are automatically given a seat on the board. Organizations can only get on the board if they are both current top contributors and agree to implement successful NPSP-based solutions for the community at large. 
 
 ##### 1.1.4 Augment a Trusted Ecosystem
 
@@ -61,7 +61,7 @@ The NPSP Advisory Board is not:
 
 The NPSP Advisory Board is expected to provide _input and formal recommendations_ regarding the following areas: 
 *	NPSP project long term roadmap
-*	NPSP project policies and procedures around maintenance, contributions, core team membership and governance.
+*	NPSP project policies and procedures around maintenance, contributions, core team membership and governance
 *	NPSP project policies and procedures around intellectual property, trademark, and licensing
 
 ### 4. Meetings and Memberships
